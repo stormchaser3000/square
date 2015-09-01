@@ -12,4 +12,16 @@ Open File Explorer (Or, if you have a mac, Finder) and locate this repository. U
 __How to play__: Space to jump. Arrow keys. Don't touch spikes. 
 
 
-This project is licensed under the MIT open source license.
+
+Copyright (C) 2015  i** sutter(stormchaser3000)
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
