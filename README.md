@@ -1,4 +1,6 @@
 # Square
+
+[![Join the chat at https://gitter.im/stormchaser3000/square](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/stormchaser3000/square?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Square is an open source project written using the scratch programing language
 ## Using Scratch to play
 To play, download Scratch [here](https://scratch.mit.edu/scratch2download/). Then run the sb2 file. Or, if you want, go to [the Scratch website](https://scratch.mit.edu), make a new project, click file>open, open the sb2 file, and you're good to go!
